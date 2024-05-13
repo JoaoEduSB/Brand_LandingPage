@@ -5,6 +5,6 @@
 <br>
 Prototipagem landing page de uma marca fictícia, desenvolvido no Figma!
 
-[Clique para ver!](https://www.figma.com/design/xXzDYLNZsAJDiDtRCbAbeS/Projeto-3?node-id=1%3A3&t=gNz6CKW3bn8kLLj9-1)
+[Clique para ver!](https://www.figma.com/design/ekDbpw11oZeUwgpD7EV8dB/Projeto-2?node-id=0%3A1&t=1lUUp9f7jQn3b1my-1)
 
 
